@@ -5,8 +5,8 @@
   "materials": [
     {
       "type": "dependency",
-      "name": "build",
-      "pipeline": "build",
+      "name": "build_one",
+      "pipeline": "build_one",
       "stage": "build"
     },
     {
