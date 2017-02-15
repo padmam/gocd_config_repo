@@ -1,5 +1,5 @@
 {
-  "name": "build",
+  "name": "build_one",
   "environment_variables": [],
   "group" : "demo",
   "materials": [
