@@ -1,5 +1,5 @@
 {
-  "name": "deploy",
+  "name": "deploy_one",
   "environment_variables": [],
   "group" : "demo",
   "materials": [
