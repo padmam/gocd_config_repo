@@ -1,4 +1,4 @@
 {
     "name" : "Testing",
-    "pipelines" : [ "functional-test" ]
+    "pipelines" : [ "" ]
 }
